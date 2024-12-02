@@ -1,0 +1,4 @@
+load 25 791
+read 6 30 217
+write 5 11
+not 23 11 70

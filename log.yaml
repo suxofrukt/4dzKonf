@@ -1,0 +1,19 @@
+[]
+- args: !!python/tuple
+  - 25
+  - 791
+  operation_code: 52
+- args: !!python/tuple
+  - 6
+  - 30
+  - 217
+  operation_code: 43
+- args: !!python/tuple
+  - 5
+  - 11
+  operation_code: 25
+- args: !!python/tuple
+  - 23
+  - 11
+  - 70
+  operation_code: 57
